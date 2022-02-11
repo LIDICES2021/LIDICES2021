@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lidices.reyes@gmail.com**
 
-- 📄 Know about my experiences [javascript, HTML, CSS, react, node, express, PostgreSQL](javascript, HTML, CSS, react, node, express, PostgreSQL)
+- 📄 Know about my experiences javascript, HTML, CSS, react, node, express, PostgreSQL
 
 - ⚡ Fun fact **I think I am funny**
 
