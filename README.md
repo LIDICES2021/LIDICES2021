@@ -1,16 +1,16 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Lídices</h1>
-<h3 align="center">A passionate full stack web developer from Cuba</h3>
+<h3 align="center">A passionate full stack web developer from Chile</h3>
 
-- 🔭 I’m currently working on [Marca de E-Commerce](http://cliente-pf-e-commerce.herokuapp.com)
+- 🔭 I worked at [Marca de E-Commerce](http://cliente-pf-e-commerce.herokuapp.com)
 
-- 🌱 I’m currently learning **Angular, Python**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **react, redux, node,**
+- 💬 Ask me about **javascripts, react, redux, node**
 
-- 📫 How to reach me **lidices.reyes@gmail.com**
+- 📫 How to reach me **lidicesreyeshung89@gmail.com**
 
-- 📄 Know about my experiences javascript, HTML, CSS, react, node, express, PostgreSQL
+- 📄 Know about my experiences javascript, python, HTML, CSS, react, node, express, PostgreSQL
 
 - ⚡ Fun fact **I think I am funny**
 
